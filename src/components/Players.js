@@ -1,4 +1,5 @@
 import React from 'react';
+import './Player.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAngleLeft, faPlay,faAngleRight } from '@fortawesome/free-solid-svg-icons'
 
